@@ -15,7 +15,7 @@ Open <http://127.0.0.1:4173/>. Student data and uploads are stored locally in th
 
 ## Render deployment
 
-`render.yaml`, `.python-version` and `requirements-prod.txt` configure a Render web service. Connect this repository in the Render dashboard and use the included Blueprint. No public deployment has been created yet.
+GitHub repository: <https://github.com/ccat09125-eng/bca>. `render.yaml`, `.python-version` and `requirements-prod.txt` configure a Render web service. Connect this repository in the Render dashboard and use the included Blueprint. No public deployment has been created yet.
 
 The free Blueprint uses an ephemeral filesystem: anonymous browser sessions are isolated, but profiles, uploads and progress can be lost when the service restarts or redeploys. Persistent Render disks require a paid web service. This MVP has no account login; do not use it to store sensitive personal information.
 

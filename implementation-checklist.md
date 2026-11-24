@@ -17,6 +17,7 @@
 - [x] Render Blueprint and production Gunicorn requirements prepared
 - [x] Public-mode data and upload paths isolated per anonymous browser session
 - [x] Local state, upload and data directories excluded from Git
+- [x] Public GitHub repository created/connected and main branch pushed (`4003598`)
 
 ## Known gaps / next priorities
 
@@ -24,8 +25,7 @@
 - [ ] Convert legacy DOC files before text extraction
 - [ ] Add AI feedback only after a provider/API key is configured; current answer guidance and marks are heuristic
 - [ ] Configure authentication, multi-user database/storage, production hosting and deployment
-- [ ] Connect and push to the specified GitHub repository; exact owner/repository URL is still required
-- [ ] Create the Render service after repository connection; free-tier persistence is ephemeral
+- [ ] Create the Render service after the user signs in; the free Blueprint uses ephemeral storage and no live URL exists yet
 - [ ] Printed page numbers are unavailable in the supplied DOCX files; citations use paragraph/table-row locations
 
 ## Validation
