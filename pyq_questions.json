@@ -1,0 +1,971 @@
+{
+  "papers": [
+    "DEC 2019_UCC2a.txt",
+    "DEC 2019_UEB2A.txt",
+    "DEC 2019_URC2A.txt",
+    "DEC 2019_ucc1a.txt",
+    "DEC 2019_ueb1a.txt"
+  ],
+  "questions": [
+    {
+      "id": "DEC 2019_UCC2a.txt:1",
+      "question": "What is an Identifier?",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART A",
+      "number": 1
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:2",
+      "question": "What are Data types?",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART A",
+      "number": 2
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:3",
+      "question": "Write a syntax of while...loop. While...loop TØÔß ÁøPø¯ GÊxP.",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART A",
+      "number": 3
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:4",
+      "question": "What is Jumping Statement? Jumping Statement GßÓõÀ GßÚ?",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART A",
+      "number": 4
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:5",
+      "question": "What is Relational Operator? Relational Operator GßÓõÀ GßÚ?",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART A",
+      "number": 5
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:6",
+      "question": "What is Prototype? Prototype GßÓõÀ GßÚ?",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART A",
+      "number": 6
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:7",
+      "question": "What is Array? Array GßÓõÀ GßÚ?",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART A",
+      "number": 7
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:8",
+      "question": "What is Union? Union GßÓõÀ GßÚ?",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART A",
+      "number": 8
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:9",
+      "question": "What is EOF? EOF GßÓõÀ GßÚ?",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART A",
+      "number": 9
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:10",
+      "question": "What is Bitwise operator? Bit wise C¯UQ GßÓõÀ GßÚ?",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART A",
+      "number": 10
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:11",
+      "question": "What is inline function? Inline Function GßÓõÀ GßÚ?",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART A",
+      "number": 11
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:12",
+      "question": "How to close a file?",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART A",
+      "number": 12
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:13",
+      "question": "What are data types in C?",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART B",
+      "number": 13
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:14",
+      "question": "Write a C program to print factorial of n numbers. C ö©õÈ°À Factorial {μÀ Á›ø\\ öuõhøμ GÊxP.",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART B",
+      "number": 14
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:15",
+      "question": "Write the syntax of Nested If....else statement. Nested If....else statement-ø¯ ÂÁ›.",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART B",
+      "number": 15
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:16",
+      "question": "Explain External, Register variables. External, Register variables-ø¯ TÖP.",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART B",
+      "number": 16
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:17",
+      "question": "Write a C program using two dimensional Arrays. Two Dimensional Arrays öuõhøμ £¯ß£kzv",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART B",
+      "number": 17
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:18",
+      "question": "What is pointer operation? Give examples. Pointer Operation- ø¯ uS¢u Euõnzxhß GÊxP.",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART B",
+      "number": 18
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:19",
+      "question": "What is File Concept – Explain.",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART B",
+      "number": 19
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:20",
+      "question": "Discuss on various operators in C language with examples. ] ö©õÈ°À EÒÍ £À÷ÁÖ C¯UQPøÍ Euõμnzxhß",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART C",
+      "number": 20
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:21",
+      "question": "Write a C program to print matrix multiplication.",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART C",
+      "number": 21
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:22",
+      "question": "Explain : (a) Structures concepts (b) Recursion. (A) Structures concepts (B) Recursion.",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART C",
+      "number": 22
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:23",
+      "question": "Write a C program to open and close a file using file operation. ÷Põ¨¦ ÷Põm£õmøh £¯ß£kzv ÷Põ¨¤øÚ vÓ¨£x",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART C",
+      "number": 23
+    },
+    {
+      "id": "DEC 2019_UCC2a.txt:24",
+      "question": "Briefly explain ; (a) Local variables concepts (b) Write a ‘C’ program to swap values. (A) Local variables-ø¯ TÖP. (B) Swap values ‘C’ {μÀ ÁÈ¯õP TÖP.",
+      "source_file": "DEC 2019_UCC2a.txt",
+      "paper_code": "UCC2A",
+      "section": "PART C",
+      "number": 24
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:1",
+      "question": "Form affirmative sentences using the given words phrases. (a) am practising I basement the drums in not (b) My friend tennis play does not",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION A",
+      "number": 1
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:2",
+      "question": "Pick the correct alternative We —————— going to Italy for our holidays. (a) enjoy (b) are hoping (c) ‘re thinking of",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION A",
+      "number": 2
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:3",
+      "question": "Fill in the blanks with the missing prepositions (a) We made the report —————— triplicate (b) Cirtus fruits —————— example of oranges and lemons require a long growing season. U/ID 31532/ UEB2A 2",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION A",
+      "number": 3
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:4",
+      "question": "Tick the correct options in the following sentences. (a) I did not —————— there (went,go) (b) When —————— they arrived? (did, have)",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION A",
+      "number": 4
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:5",
+      "question": "Complete the analogy by  writing the correct word from the options: Soft is to loud as slow is to ——————(quiet, quick, sluggish)",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION A",
+      "number": 5
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:6",
+      "question": "(a) Write any Two new words using the prefix (b) Write any Two new words using the suffix ‘ship",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION A",
+      "number": 6
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:7",
+      "question": "Identify the adjective in the following sentences and specify the type. Anu is a mischievous girl",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION A",
+      "number": 7
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:8",
+      "question": "Use the following idioms to frame sentences of your own. (a) add fuel to the fire (b) Fish in troubled waters",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION A",
+      "number": 8
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:9",
+      "question": "Complete the following sentences using the appropriate conjunctions (a)  —————— the  bell rang the students entered the class (b) He had left —————— I reached there U/ID 31532/ UEB2A 3",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION A",
+      "number": 9
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:10",
+      "question": "Fill in the blanks with suitable linkers from the ones given in the brackets. He doesn’t like coffee or tea. He doesn’t like milk —————— (either, too, still)",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION A",
+      "number": 10
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:11",
+      "question": "Identify the sentences pattern in each of the following sentences (a) My daughter eats an apple everyday. (b) We buy flowers from the florist",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION A",
+      "number": 11
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:12",
+      "question": "Fill in the blanks with suitable articles. He gave —————— one hundred rupee note to —————— honest boy",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION A",
+      "number": 12
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:13",
+      "question": "What happened to the handsome youngman in ‘The Lady or The Tiger’?",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION B",
+      "number": 13
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:14",
+      "question": "How does Wordsworth bring out the beauty of the countryside in his poem ‘The Solitary Reaper’?",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION B",
+      "number": 14
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:15",
+      "question": "Bring out the irony in the story ‘The Fortune Teller’.",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION B",
+      "number": 15
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:16",
+      "question": "Sketch the character of Alan Trevor from ‘The Model Millionaire’. U/ID 31532/ UEB2A 4",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION B",
+      "number": 16
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:17",
+      "question": "How did Little John rescue Robin Hood from the Sheriff’s castle.",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION B",
+      "number": 17
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:18",
+      "question": "Narrate the circumstances leading Bluntschli to Raina’s house, and falling in love with her.",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION B",
+      "number": 18
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:19",
+      "question": "Sketch the character of Sergius.",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION B",
+      "number": 19
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:20",
+      "question": "Narrate the story of ‘The Refugee’.",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION C",
+      "number": 20
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:21",
+      "question": "Summarise the poem ‘The Gift’.",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION C",
+      "number": 21
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:22",
+      "question": "‘Friendship and separation are inevitable in life’ – Comment on this with reference to the short story ‘The Post Master’.",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION C",
+      "number": 22
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:23",
+      "question": "Justify the title ‘The Death Trap’.",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION C",
+      "number": 23
+    },
+    {
+      "id": "DEC 2019_UEB2A.txt:24",
+      "question": "Discuss ‘Arms and the Man’ is a comedy.",
+      "source_file": "DEC 2019_UEB2A.txt",
+      "paper_code": "UEB2A",
+      "section": "SECTION C",
+      "number": 24
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:1",
+      "question": "Solve  dxex x4 .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION A",
+      "number": 1
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:2",
+      "question": "Evaluate ",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION A",
+      "number": 2
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:3",
+      "question": "Write the Fourier coefficient 0a .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION A",
+      "number": 3
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:4",
+      "question": "Solve 0342  yDD .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION A",
+      "number": 4
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:5",
+      "question": "If 2sin xyxu  , then find  2   and xy u  2 .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION A",
+      "number": 5
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:6",
+      "question": "Form the partial differential equation by eliminating the arbitrary constants a  and b  from bxaxz  .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION A",
+      "number": 6
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:7",
+      "question": "Evaluate tL 2cos .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION A",
+      "number": 7
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:8",
+      "question": "Find     7 1 1 s L .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION A",
+      "number": 8
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:9",
+      "question": "Define solenoidal vector.",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION A",
+      "number": 9
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:10",
+      "question": "Prove that 3 r .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION A",
+      "number": 10
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:11",
+      "question": "State Green’s theorem.",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION A",
+      "number": 11
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:12",
+      "question": "State Stroke’s theorem.",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION A",
+      "number": 12
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:13",
+      "question": "Evaluate  5sin dxxx .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION B",
+      "number": 13
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:14",
+      "question": "Solve xyDD 2sin22  .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION B",
+      "number": 14
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:15",
+      "question": "Solve 1 qp .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION B",
+      "number": 15
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:16",
+      "question": "Find tL 3cos2 .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION B",
+      "number": 16
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:17",
+      "question": "Find       134 3 2 1 ss sL .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION B",
+      "number": 17
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:18",
+      "question": "If  322 2,, zyyxzyx  , find   at (1, –1, 2).",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION B",
+      "number": 18
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:19",
+      "question": "Evaluate   , where kzjyixF and V is the volume enclosed by the cube",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION B",
+      "number": 19
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:20",
+      "question": "Obtain the reduction formula for  dxxn .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION C",
+      "number": 20
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:21",
+      "question": "Solve  yxqxzpzyx  .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION C",
+      "number": 21
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:22",
+      "question": "Using Laplace transform, solve teydt dy dt yd 2 2 2 56  , given that 1,0  dt dyy  when 0t .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION C",
+      "number": 22
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:23",
+      "question": "Show that nn rnrr 3  .",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION C",
+      "number": 23
+    },
+    {
+      "id": "DEC 2019_URC2A.txt:24",
+      "question": "Evaluate using Gauss divergence theorem, dSnF ˆ",
+      "source_file": "DEC 2019_URC2A.txt",
+      "paper_code": "URC2A",
+      "section": "SECTION C",
+      "number": 24
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:1",
+      "question": "What are the characteristics of computer? Po¨ö£õÔ°ß £s¦PøÍ GÊxP.",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART A",
+      "number": 1
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:2",
+      "question": "List any three number representation in Binary. ‰ßÖ C¸© ¤μv{zxÁzøu Á›ø\\¨£kzxP.",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART A",
+      "number": 2
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:3",
+      "question": "Find 10’s complement of 52520 and 25.639. TøÓU Psk¤i.",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART A",
+      "number": 3
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:4",
+      "question": "Expand ASCII and EBCDIC. ASCII ©ØÖ® EBCDIC Â›ÁõUP® u¸P.",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART A",
+      "number": 4
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:5",
+      "question": "What is Karnaugh Map? Karnaugh Map GßÓõÀ GßÚ?",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART A",
+      "number": 5
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:6",
+      "question": "State Demorgan’s theorem Demorgan’s ÷uØÓ® GÊxP.",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART A",
+      "number": 6
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:7",
+      "question": "Draw the symbols of Universal Logic Gates. Universal uºUP Áõ°ÀPÎß SÔ±kPøÍ ÁøμP.",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART A",
+      "number": 7
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:8",
+      "question": "What is RS Flip Flop? RS Flip Flop GßÓõÀ GßÚ?",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART A",
+      "number": 8
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:9",
+      "question": "What is Decoder? Decoder  GßÓõÀ GßÚ?",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART A",
+      "number": 9
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:10",
+      "question": "What is meant by PLA? PLA  GßÓõÀ GßÚ?",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART A",
+      "number": 10
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:11",
+      "question": "What is Ribble counter?",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART A",
+      "number": 11
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:12",
+      "question": "What are Shift Registers?",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART A",
+      "number": 12
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:13",
+      "question": "Explain briefly complement numbers with examples. {μ¨¦U TÖPÒ £ØÔ Â›ÁõP GÊxP.",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART B",
+      "number": 13
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:14",
+      "question": "Simplify the following Boolean function using K-Map method. BCCBABACAF ",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART B",
+      "number": 14
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:15",
+      "question": "Explain Half Adder with circuit diagram. AøμU Tmi ©ØÖ® _ØÖ¨ £hzøu ÁøμP.",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART B",
+      "number": 15
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:16",
+      "question": "Explain Decoders. SÔ ÂÍUQPøÍ ÂÍUSP.",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART B",
+      "number": 16
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:17",
+      "question": "Discuss Basic theorems of Boolean Algebra. §¼¯ß C¯Ø Pouzvß Ai¨£øh ÷Põm£õkPøÍ",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART B",
+      "number": 17
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:18",
+      "question": "Design a RS FLIP FLOP with Logic Circuit. RS FLIP FLOP&ß Logic Circuit&ø¯ ÁiÁø©UP.",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART B",
+      "number": 18
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:19",
+      "question": "Explain a 161  Bit Multiplexer with Truth table. 161  Bit Multiplexer &ø¯ Truth table  Ehß",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART B",
+      "number": 19
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:20",
+      "question": "Explain briefly variou s Logic gates with Truth table. £ÀÁøP¯õÚ Logic gates&ß _ØÖ¨£hzøu ÁøμP.",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART C",
+      "number": 20
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:21",
+      "question": "Minimize four variables Boolean equation using K- map method WXYZZWXYZYWXZYWXF  \\©ß£õmøh _¸UPÄ® WXYZZWXYZYWXZYWXF ",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART C",
+      "number": 21
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:22",
+      "question": "Explain briefly Three Bit Ribble counters with Truth Table. Truth Table&ß EuÂ²hß ÂÍUSP.",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART C",
+      "number": 22
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:23",
+      "question": "Construct a Three Bit Full subtractors using Logic gates. ‰ßÖ ¤m Full Subtractors&ø¯ uºUP Áõ°À (Logic Gates) ‰»® Pmhø©UP.",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART C",
+      "number": 23
+    },
+    {
+      "id": "DEC 2019_ucc1a.txt:24",
+      "question": "Describe the design of Arithmetic Logic Unit and their functions. Arithmetic Logic Unit  ©ØÖ® Auß ö\\¯À£õkPøÍ",
+      "source_file": "DEC 2019_ucc1a.txt",
+      "paper_code": "UCC1A",
+      "section": "PART C",
+      "number": 24
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:1",
+      "question": "Write two words pronounced with  /K/ sound.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION A",
+      "number": 1
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:2",
+      "question": "Write the contracted forms of the following : (a) You are (b) Must not",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION A",
+      "number": 2
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:3",
+      "question": "Rewrite the following sentence using an introductory ‘It’ or ‘There’. A lot of noise was in the street.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION A",
+      "number": 3
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:4",
+      "question": "Fill in the blank with suitable article. Eliza will bring ——————  small gift to Sophie on —————— day of her birthday.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION A",
+      "number": 4
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:5",
+      "question": "Use the appropriate prepositions given in brackets. You should explain this —————— them (to/at/with) U/ID 31526/UEB1A  2",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION A",
+      "number": 5
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:6",
+      "question": "Write the Antonyms of the following : (a) Wet (b) Sharp.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION A",
+      "number": 6
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:7",
+      "question": "Fill in the blank with the appropriate adjectival form of the word given in brackets. It is a —————— (silence) valley project.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION A",
+      "number": 7
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:8",
+      "question": "Fill in the blank using suitable forms of the verb given in brackets. It was ——————(write) by a petitioner.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION A",
+      "number": 8
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:9",
+      "question": "Change the following into negative. I practice the violin every morning.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION A",
+      "number": 9
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:10",
+      "question": "Frame suitable questions to the following : I am going home now.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION A",
+      "number": 10
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:11",
+      "question": "Fill in the blank with the connective She may be poor —————— she will not take anything that does not belong to her.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION A",
+      "number": 11
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:12",
+      "question": "Rewrite in Reported speech : He said, ‘‘I Know a better restaurant’’. U/ID 31526/UEB1A  3",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION A",
+      "number": 12
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:13",
+      "question": "Write on Kalam’s opinion on the indomitable spirit of Nelson Mandela?",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION B",
+      "number": 13
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:14",
+      "question": "How did the rivalry of Jessie Owens and Luz Long",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION B",
+      "number": 14
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:15",
+      "question": "Critically examine the title ‘The Unexpected’.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION B",
+      "number": 15
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:16",
+      "question": "How does God decide to make man seek Him, in ‘Pulley’?",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION B",
+      "number": 16
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:17",
+      "question": "How does A.D. Hope describe the death of the bird?",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION B",
+      "number": 17
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:18",
+      "question": "Write on the burglary at the vicarage.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION B",
+      "number": 18
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:19",
+      "question": "How did the hunting of the invisible man end?",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION B",
+      "number": 19
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:20",
+      "question": "How are the rights of women systematically violated, according  to Hilary Clinton?",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION C",
+      "number": 20
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:21",
+      "question": "Sketch the character of Tom Sawyer.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION C",
+      "number": 21
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:22",
+      "question": "Consider the poem ‘The Night of the Scorpion’ as a pen portrait of typical Indian Village scene. U/ID 31526/UEB1A  4",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION C",
+      "number": 22
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:23",
+      "question": "What are Mr. Marvell’s experiences as the invisible man’s confederate.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION C",
+      "number": 23
+    },
+    {
+      "id": "DEC 2019_ueb1a.txt:24",
+      "question": "Narrate Griffin’s adventure in the emporium.",
+      "source_file": "DEC 2019_ueb1a.txt",
+      "paper_code": "UEB1A",
+      "section": "SECTION C",
+      "number": 24
+    }
+  ]
+}

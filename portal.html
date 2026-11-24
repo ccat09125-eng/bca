@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f8fb">
+  <title>BCA Study &amp; Exam Hub — Read. Understand. Practise. Succeed.</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/portal.css">
+</head>
+<body>
+  <div id="app">
+    <aside class="sidebar" id="sidebar">
+      <a href="/" class="brand" data-route="Landing"><span class="brand-mark">B</span><span><b>BCA</b><small>STUDY &amp; EXAM HUB</small></span></a>
+      <div class="nav-label">LEARNING</div>
+      <nav id="navigation" aria-label="Main navigation">
+        <button data-route="Dashboard" class="nav-item active"><span>⌂</span>Dashboard</button>
+        <button data-route="Subjects" class="nav-item"><span>▤</span>Subjects</button>
+        <button data-route="Notes" class="nav-item"><span>▥</span>Source notes</button>
+        <button data-route="Library" class="nav-item"><span>▧</span>Document library</button>
+        <button data-route="PYQs" class="nav-item"><span>▥</span>PYQ question bank</button>
+        <button data-route="Questions" class="nav-item"><span>✎</span>Questions &amp; answers</button>
+        <button data-route="Flashcards" class="nav-item"><span>▣</span>Flashcards</button>
+      </nav>
+      <div class="nav-label nav-label-spaced">PREPARATION</div>
+      <nav aria-label="Exam preparation">
+        <button data-route="Planner" class="nav-item"><span>□</span>Study planner</button>
+        <button data-route="Exams" class="nav-item"><span>◷</span>Mock exams</button>
+        <button data-route="Progress" class="nav-item"><span>↗</span>Progress</button>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="semester-mini"><small>YOUR SEMESTER</small><strong id="sidebarSemester">Semester III</strong><span class="meter"><i></i></span><small>Build a little every day.</small></div>
+        <button class="profile-button" id="editProfile"><span class="avatar" id="avatar">AK</span><span><b id="profileName">Student</b><small>BCA student</small></span><span class="more">•••</span></button>
+      </div>
+    </aside>
+    <div class="app-main">
+      <header class="topbar">
+        <button class="mobile-menu" id="mobileMenu" aria-label="Open menu">☰</button>
+        <div class="breadcrumbs"><span>My learning</span><b>/</b><strong id="crumb">Dashboard</strong></div>
+        <label class="search-box"><span>⌕</span><input id="globalSearch" placeholder="Search subjects and questions" aria-label="Search"><kbd>Ctrl K</kbd></label>
+        <button class="top-upload" data-action="upload">＋ <span>Upload</span></button>
+      </header>
+      <main id="view" tabindex="-1"></main>
+      <footer class="footer"><span>BCA Study &amp; Exam Hub</span><span>Read. Understand. Practise. Succeed.</span></footer>
+    </div>
+  </div>
+  <div id="modalRoot"></div>
+  <div class="toast" id="toast" role="status"></div>
+  <script src="/academic_data.js"></script>
+  <script src="/portal.js"></script>
+</body>
+</html>

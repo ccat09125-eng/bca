@@ -1,0 +1,235 @@
+{
+  "status": "complete",
+  "generated_from": "the three tagged source DOCX files",
+  "documents": [
+    {
+      "id": "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1",
+      "filename": "BCA_SEMESTER_I_II_III_PYQ_QUESTION_BANK_WITH_MODEL_ANSWERS (1).docx",
+      "document_type": "question-bank",
+      "sha256": "b74af0ce740b9e18f2b4f5cbdbd0d81b3fdb0bf7f5bcb3c6c2874199a6365fb6",
+      "paragraph_count": 1585,
+      "table_count": 37,
+      "table_row_count": 113,
+      "image_count": 0,
+      "block_count": 1641,
+      "body_block_count": 1639,
+      "header_footer_block_count": 2,
+      "character_count": 209707,
+      "word_count": 33383,
+      "heading_count": 134,
+      "explicit_page_break_count": 1,
+      "pagination": "Printed page numbers are not stored in these DOCX files; paragraph/table-row locations are provided instead.",
+      "comparison_to_prior_text": {
+        "available": true,
+        "filename": "BCA_SEMESTER_I_II_III_PYQ_QUESTION_BANK_WITH_MODEL_ANSWERS (1).txt",
+        "character_count": 193161,
+        "normalized_equal": false,
+        "note": "The tagged DOCX content was extracted as the authoritative source."
+      }
+    },
+    {
+      "id": "bca_mega_question_answer_notebook_university_of_madras-2",
+      "filename": "BCA_MEGA_QUESTION_ANSWER_NOTEBOOK_University_of_Madras (2).docx",
+      "document_type": "question-answer-notebook",
+      "sha256": "9a1dd4582faccc5ed8fe675e067e4198b05d0c1bcba2dfb262fdfc1594bdc09c",
+      "paragraph_count": 2058,
+      "table_count": 15,
+      "table_row_count": 0,
+      "image_count": 0,
+      "block_count": 2042,
+      "body_block_count": 2040,
+      "header_footer_block_count": 2,
+      "character_count": 210301,
+      "word_count": 32001,
+      "heading_count": 962,
+      "explicit_page_break_count": 18,
+      "pagination": "Printed page numbers are not stored in these DOCX files; paragraph/table-row locations are provided instead.",
+      "comparison_to_prior_text": {
+        "available": true,
+        "filename": "BCA_MEGA_QUESTION_ANSWER_NOTEBOOK_University_of_Madras (2).txt",
+        "character_count": 212379,
+        "normalized_equal": true,
+        "note": "The existing text extraction matches after whitespace normalization."
+      }
+    },
+    {
+      "id": "bca_detailed_notebook_whole_syllabus",
+      "filename": "BCA_DETAILED_NOTEBOOK_WHOLE_SYLLABUS.docx",
+      "document_type": "study-notebook",
+      "sha256": "30f61b32090465ac53595887d1af55fd5d8f7e94b74c89f228b366010077ddfc",
+      "paragraph_count": 2327,
+      "table_count": 0,
+      "table_row_count": 0,
+      "image_count": 0,
+      "block_count": 2327,
+      "body_block_count": 2325,
+      "header_footer_block_count": 2,
+      "character_count": 211047,
+      "word_count": 32159,
+      "heading_count": 511,
+      "explicit_page_break_count": 2,
+      "pagination": "Printed page numbers are not stored in these DOCX files; paragraph/table-row locations are provided instead.",
+      "comparison_to_prior_text": {
+        "available": true,
+        "filename": "BCA_DETAILED_NOTEBOOK_WHOLE_SYLLABUS.txt",
+        "character_count": 213505,
+        "normalized_equal": true,
+        "note": "The existing text extraction matches after whitespace normalization."
+      }
+    }
+  ],
+  "cross_document_exact_duplicate_groups": 0,
+  "subject_coverage": [
+    {
+      "semester": "I",
+      "subject_code": "SFCE11",
+      "subject": "Communicative English I: Speaking Skills",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "I",
+      "subject_code": "SFEN11",
+      "subject": "English I",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "I",
+      "subject_code": "SUCA101",
+      "subject": "Fundamentals of Digital Computers",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "I",
+      "subject_code": "SUCA102",
+      "subject": "PC Software Lab",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "I",
+      "subject_code": "SUCA103",
+      "subject": "Mathematics I",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "II",
+      "subject_code": "SFCE12",
+      "subject": "Communicative English II: Listening Skills",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "II",
+      "subject_code": "SFEN12",
+      "subject": "English II",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "II",
+      "subject_code": "SUCA104",
+      "subject": "Programming in C",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "II",
+      "subject_code": "SUCA105",
+      "subject": "Programming in C Lab",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "II",
+      "subject_code": "SUCA106",
+      "subject": "Mathematics II",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "III",
+      "subject_code": "SUCA201A",
+      "subject": "Programming in C++ and Data Structures",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "III",
+      "subject_code": "SUCA202",
+      "subject": "Microprocessors and its Applications",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "III",
+      "subject_code": "SUCA203",
+      "subject": "Numerical and Statistical Methods",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "III",
+      "subject_code": "SUCA204",
+      "subject": "C++ Data Structures Lab",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    },
+    {
+      "semester": "III",
+      "subject_code": "SUCA205",
+      "subject": "Financial Accounting",
+      "documents": [
+        "bca_detailed_notebook_whole_syllabus",
+        "bca_mega_question_answer_notebook_university_of_madras-2",
+        "bca_semester_i_ii_iii_pyq_question_bank_with_model_answers-1"
+      ]
+    }
+  ],
+  "note": "All non-empty paragraphs and non-empty table rows were retained. No image objects were found."
+}
